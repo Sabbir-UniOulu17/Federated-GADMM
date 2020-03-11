@@ -1,2 +1,2 @@
-# L-FGADMM
+# GADMM
 Distributed Machine Learning
